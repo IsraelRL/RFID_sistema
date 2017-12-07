@@ -1,0 +1,10 @@
+C:\Users\Gato\Documents\Visual Studio 2010\Projects\RFID_Control_Acceso\RFID_Control_Acceso\obj\x86\Debug\RFID_Control_Acceso.csprojResolveAssemblyReference.cache
+C:\Users\Gato\Documents\Visual Studio 2010\Projects\RFID_Control_Acceso\RFID_Control_Acceso\obj\x86\Debug\RFID_Control_Acceso.Form1.resources
+C:\Users\Gato\Documents\Visual Studio 2010\Projects\RFID_Control_Acceso\RFID_Control_Acceso\obj\x86\Debug\RFID_Control_Acceso.Properties.Resources.resources
+C:\Users\Gato\Documents\Visual Studio 2010\Projects\RFID_Control_Acceso\RFID_Control_Acceso\obj\x86\Debug\RFID_Control_Acceso.csproj.GenerateResource.Cache
+C:\Users\Gato\Documents\Visual Studio 2010\Projects\RFID_Control_Acceso\RFID_Control_Acceso\bin\Debug\RFID_Control_Acceso.exe
+C:\Users\Gato\Documents\Visual Studio 2010\Projects\RFID_Control_Acceso\RFID_Control_Acceso\bin\Debug\RFID_Control_Acceso.pdb
+C:\Users\Gato\Documents\Visual Studio 2010\Projects\RFID_Control_Acceso\RFID_Control_Acceso\obj\x86\Debug\RFID_Control_Acceso.exe
+C:\Users\Gato\Documents\Visual Studio 2010\Projects\RFID_Control_Acceso\RFID_Control_Acceso\obj\x86\Debug\RFID_Control_Acceso.pdb
+C:\Users\Gato\Desktop\RFID_Control_Acceso\RFID_Control_Acceso\obj\x86\Debug\RFID_Control_Acceso.exe
+C:\Users\Gato\Desktop\RFID_Control_Acceso\RFID_Control_Acceso\obj\x86\Debug\RFID_Control_Acceso.pdb
